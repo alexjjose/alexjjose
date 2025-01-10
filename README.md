@@ -25,7 +25,7 @@
 
 languages :
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?alexjjose=johndoe&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjjose&layout=compact)
 
 ## 🔗 Connect with Me
 
