@@ -29,19 +29,19 @@ Currently diving into DevOps, some of the tools I'm learning and working with:
 
 ## GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?alexjjose=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexjjose&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
 
 ---
 
 ## My Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-alexjjose&theme=radical)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexjjose&theme=tokyonight)
 
 ---
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjjose&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjjose&layout=compact&theme=tokyonight)
 
 ---
 
@@ -65,4 +65,4 @@ Feel free to connect with me:
 ---
 
 <!-- Optional: Add your GitHub contributions graph here -->
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?alexjjose-github-alexjjose&theme=github)
