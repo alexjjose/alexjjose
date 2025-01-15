@@ -64,6 +64,4 @@ Feel free to connect with me:
 
 ---
 
-<!-- Optional: Add your GitHub contributions graph here -->
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=alexjjose&theme=github)
 
