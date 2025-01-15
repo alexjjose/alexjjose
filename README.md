@@ -55,10 +55,6 @@ Feel free to connect with me:
 
 ---
 
-## 📫 Reach Me
-
----
-
 > *"To be the best, you need the best."* – Cristiano Ronaldo
 
 
